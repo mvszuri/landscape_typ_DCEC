@@ -6,6 +6,8 @@ The code was used to generate the results presented in the manuscript titled "Un
 Parts of the code were adapted from the code belonging to the publication: Guo X, Liu X, Zhu E, Yin J (2017) Deep Clustering with Convolutional Autoencoders, Proceedings of the International Conference on Neural Information Processing, Guangzhou, China.
 Gou et al.'s code can be found here: https://github.com/XifengGuo/DCEC.
 
+V1 of the code has been archived on Zenodo: https://doi.org/10.5281/zenodo.17245001
+
 ## Details of the individual files:
 - Preparing_input_rasters.py: Code to prepare the Switzerland-wide input rasters (satellite images and other data).
 - Create_raster_tile_training_set.py: Code to create image tiles of the Switzerland-wide input rasters.
